@@ -1,6 +1,8 @@
 # Containerization-of-a-react-django-app
 Containerizing a React-Django application can streamline development, deployment, and scaling processes. This guide walks through the steps I took to containerize a React-Django application, addressing common issues along the way.
 
+![flowchart of containerization process](https://github.com/user-attachments/assets/3651e558-2731-4807-8aea-992612cd3bda)
+
 ## Prerequisites
 - Linux server from linode
 - Docker and Docker-compose installed 
